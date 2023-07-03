@@ -1,6 +1,8 @@
 
 # **Breast Cancer Prediction Model Using (KNN CLASSIFIER)**
 
+![Logo](https://github.com/stankovix/Breast-Cancer-Predictor-App/blob/main/FP.png?raw=true)
+
 Breast cancer is a prevalent and significant public health issue among women worldwide. Accurate early diagnosis plays a vital role in improving prognosis and survival rates. In addition, precise classification of breast tumors as benign or malignant is crucial for avoiding unnecessary treatments.
 
 Using Python and data analysis techniques, we can leverage machine learning algorithms such as K-Nearest Neighbors (KNN) to aid in the early diagnosis and classification of breast cancer. KNN is a powerful algorithm that can analyze medical data and clinical variables to make accurate predictions.
@@ -91,7 +93,3 @@ Below  are the steps I took in this Python data analysis project on breast cance
    - Implement the necessary backend logic to preprocess the input data and feed it into the trained KNN model for classification.(NOTE: THE KNN HAD THE BEST ACCURACY, SO WE USED IT FOR THE FLASK DEPLOYMENT).
    - Retrieve the model's prediction for benign or malignant classification.
    - Return the prediction to the user through the Flask application's response.
-
-
-![Logo](https://github.com/stankovix/Breast-Cancer-Predictor-App/blob/main/FP.png?raw=true)
-
