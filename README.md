@@ -16,7 +16,7 @@ By combining the power of Python, data analysis, KNN, and Flask deployment, we c
 
 **Benign**: Not likely to get cancer (2) = 0
 
-**Malignant**: Likely to get cancer (4)** = 1
+**Malignant**: Likely to get cancer (4) = 1
 
 
 ## Authors
